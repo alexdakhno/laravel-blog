@@ -1,0 +1,9 @@
+# Global
+.*.swp
+.DS_Store
+
+# Application
+data/
+
+# SSL Certs
+etc/ssl/
