@@ -36,10 +36,4 @@ class BlogRequest extends FormRequest
         ];
     }
 
-//    public function prepareForValidation()
-//    {
-//        $this->merge([
-//            'user_id' => auth()->id()
-//        ]);
-//    }
 }
