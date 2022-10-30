@@ -5,5 +5,8 @@
 # Application
 data/
 
+# PHPStorm
+.idea/
+
 # SSL Certs
 etc/ssl/
